@@ -1,0 +1,11 @@
+{
+    "nome": "Fulano de tal",
+    "cadastro":{
+        "idade":25,
+        "cpf":"158.632.458-00",
+        "cep": "29250-263",
+        "cidade":"Guarapari",
+        "Trabalho": "Gestor"
+        
+    }
+}
